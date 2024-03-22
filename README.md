@@ -1,0 +1,2 @@
+# sample_remote_repository
+新人研修用リモートリポジトリ
